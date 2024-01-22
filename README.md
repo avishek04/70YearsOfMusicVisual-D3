@@ -1,8 +1,9 @@
 # 70 Years Of Music Visualization using Python and D3
+
 This project delves into the dynamic world of music, leveraging a comprehensive database to uncover trends, genre fusions, and artistic evolution. Fueled by technology and social shifts, it aims to visualize connections between genres, songs, and lyrical preferences. Motivated by a shared passion for music, the project merges diverse skills to gain insights, contributing to both academic and professional realms. Ultimately, it seeks to offer a unique perspective on music's ever-changing landscape.
 
-**Our main objectives:**
-<br>
+**Main Objectives:**
+
 1. Analysis of features/attributes for top songs along the years.
 2. Visualization of genre popularity trends throughout 1950 to 2019.
 3. Visualization of the top 1% most used words (excluding common words like a, an, the, etc.) each year/decade - (1950-2019).
@@ -10,6 +11,7 @@ This project delves into the dynamic world of music, leveraging a comprehensive 
 Library used: d3
 
 ## Reference
+
 Project Website: [https://dataviscourse2023.github.io/final_project_MV/](https://dataviscourse2023.github.io/final_project_MV/)<br>
 Project Screen-Cast: [https://youtu.be/QBHgvI3V9Ok](https://youtu.be/QBHgvI3V9Ok)<br>
 Data: [https://github.com/dataviscourse2023/final-project-naep/tree/main/data](https://github.com/dataviscourse2023/final-project-chipmunks/tree/main/Data)<br>
