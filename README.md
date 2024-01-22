@@ -2,7 +2,7 @@
 
 This project delves into the dynamic world of music, leveraging a comprehensive database to uncover trends, genre fusions, and artistic evolution. Fueled by technology and social shifts, it aims to visualize connections between genres, songs, and lyrical preferences. Motivated by a shared passion for music, the project merges diverse skills to gain insights, contributing to both academic and professional realms. Ultimately, it seeks to offer a unique perspective on music's ever-changing landscape.
 
-**Main Objectives:**
+**Main Objective:**
 
 1. Analysis of features/attributes for top songs along the years.
 2. Visualization of genre popularity trends throughout 1950 to 2019.
