@@ -7,9 +7,9 @@ This project delves into the dynamic world of music, leveraging a comprehensive 
 2. Visualization of genre popularity trends throughout 1950 to 2019.
 3. Visualization of the top 1% most used words (excluding common words like a, an, the, etc.) each year/decade - (1950-2019).
 
-<br>Library used: d3
+Library used: d3
 
-## Final Submission
+## Reference
 Project Website: [https://dataviscourse2023.github.io/final_project_MV/](https://dataviscourse2023.github.io/final_project_MV/)<br>
 Project Screen-Cast: [https://youtu.be/QBHgvI3V9Ok](https://youtu.be/QBHgvI3V9Ok)<br>
 Data: [https://github.com/dataviscourse2023/final-project-naep/tree/main/data](https://github.com/dataviscourse2023/final-project-chipmunks/tree/main/Data)<br>
