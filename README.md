@@ -1,38 +1,18 @@
-# final-project-chipmunks
-final-project-chipmunks created by GitHub Classroom
-
-## Team
-1. Avishek Choudhury - u1428226
-2. Jinol Shah - u1472606
-3. Novella Alvina - u1413401
-
-## Visualization for Music Data
-This project delves into the vast and dynamic world of music, recognizing its ever-changing nature 
-shaped by evolving trends, genre fusions, and artist creativity. 
-Fueled by technological and social advancements, the music industry undergoes constant transformation. 
-The goal is to explore a comprehensive music database, unveiling hidden patterns and narratives 
-from the past, while seeking to understand the evolution of music. Utilizing effective visualization techniques, 
-the project aims to reveal connections between genres, songs, and lyrical preferences, offering a distinctive perspective on the realm of music. 
-The motivation stems from a collective passion for music, and the project serves as an opportunity to blend diverse skills in an exploration of music data. 
-The ultimate goal is to gain insights into music trends, contributing to the knowledge base in the field and merging personal interests with academic and professional pursuits.
+# 70 Years Of Music Visualization using Python and D3
+This project delves into the dynamic world of music, leveraging a comprehensive database to uncover trends, genre fusions, and artistic evolution. Fueled by technology and social shifts, it aims to visualize connections between genres, songs, and lyrical preferences. Motivated by a shared passion for music, the project merges diverse skills to gain insights, contributing to both academic and professional realms. Ultimately, it seeks to offer a unique perspective on music's ever-changing landscape.
 
 **Our main objectives:**
 <br>
-1. Visualization of genre popularity trends throughout 1950 to 2019.
-2. Visualization of the top 1% most used words (excluding common words like a, an, the, etc.) each year/decade - (1950-2019).
-3. Analysis of features/attributes for top songs along the years.
+1. Analysis of features/attributes for top songs along the years.
+2. Visualization of genre popularity trends throughout 1950 to 2019.
+3. Visualization of the top 1% most used words (excluding common words like a, an, the, etc.) each year/decade - (1950-2019).
 
-Hopefully, we can contribute our work to music resources as a valuable resource.
-
-Repo: https://github.com/dataviscourse2023/final-project-chipmunks
 <br>Library used: d3
 
 ## Final Submission
 Project Website: [https://dataviscourse2023.github.io/final_project_MV/](https://dataviscourse2023.github.io/final_project_MV/)<br>
-Project Source Code: [https://github.com/dataviscourse2023/final-project-chipmunks/tree/main](https://github.com/dataviscourse2023/final-project-chipmunks/tree/main)<br>
 Project Screen-Cast: [https://youtu.be/QBHgvI3V9Ok](https://youtu.be/QBHgvI3V9Ok)<br>
 Data: [https://github.com/dataviscourse2023/final-project-naep/tree/main/data](https://github.com/dataviscourse2023/final-project-chipmunks/tree/main/Data)<br>
-Process Book: [https://github.com/dataviscourse2023/final-project-chipmunks/blob/main/Process%20Book.pdf](https://github.com/dataviscourse2023/final-project-chipmunks/blob/main/Process%20Book.pdf)<br>
 
 ## Highlights
 **1. Home Page**
