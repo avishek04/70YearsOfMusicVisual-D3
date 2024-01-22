@@ -2,7 +2,7 @@
 
 This project delves into the dynamic world of music, leveraging a comprehensive database to uncover trends, genre fusions, and artistic evolution. Fueled by technology and social shifts, it aims to visualize connections between genres, songs, and lyrical preferences. Motivated by a shared passion for music, the project merges diverse skills to gain insights, contributing to both academic and professional realms. Ultimately, it seeks to offer a unique perspective on music's ever-changing landscape.
 
-**Main Objective:**
+## Main Objective
 
 1. Analysis of features/attributes for top songs along the years.
 2. Visualization of genre popularity trends throughout 1950 to 2019.
@@ -32,15 +32,15 @@ This project delves into the dynamic world of music, leveraging a comprehensive 
 
 **2. Spider Chart**
 <br>The spider chart provides a comprehensive analysis of key musical attributes, each ranging from 0 to 1, offering a nuanced understanding of songs' inherent qualities.
-<br>Feature: We can select two songs at a time using the drop down options which will give us a better comparison of the songs’ attributes - which is shown on the tabs on the left hand side - as we overlap the chart on top of the other.
+<br><ins>Feature</ins>: We can select two songs at a time using the drop down options which will give us a better comparison of the songs’ attributes - which is shown on the tabs on the left hand side - as we overlap the chart on top of the other.
 
 **3. Heat Map** 
 <br>This heatmap provides a comprehensive visual exploration of the popularity dynamics of music genres over distinct decades. The x-axis delineates different historical periods, while the y-axis showcases a diverse array of music genres.
-<br>Feature: Mouse hover shows a small pop-up window that gives information/ popularity for the selected genre and decade.
+<br><ins>Feature</ins>: Mouse hover shows a small pop-up window that gives information/ popularity for the selected genre and decade.
 
 **4. Cluster Plot**
-<br> Cluster plot analysis of top 1% unique words across decades in song lyrics. The presented cluster plot offers a comprehensive insight into the lexical landscape of songs spanning from the 1950s to the 2010s. 
-<br> Feature: Mouse hover highlights instances of the same word in different decades with small detail window pops up at the bottom of the screen for each deacade (if the word is present in that decade) that shows: 
+<br>Cluster plot analysis of top 1% unique words across decades in song lyrics. The presented cluster plot offers a comprehensive insight into the lexical landscape of songs spanning from the 1950s to the 2010s. 
+<br><ins>Feature</ins>: Mouse hover highlights instances of the same word in different decades with small detail window pops up at the bottom of the screen for each deacade (if the word is present in that decade) that shows: 
 
 1. The word selected.
 2. Number of times the word is repeated in that decade.
