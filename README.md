@@ -8,24 +8,25 @@ This project delves into the dynamic world of music, leveraging a comprehensive 
 2. Visualization of genre popularity trends throughout 1950 to 2019.
 3. Visualization of the top 1% most used words (excluding common words like a, an, the, etc.) each year/decade - (1950-2019).
 
-## Reference
+## Video Walkthrough
+https://github.com/user-attachments/assets/34098bde-b56f-40d1-9e4b-5c4ae2a84b63
 
-**Project Live Website:** 
+## Live Website
 [https://dataviscourse2023.github.io/final_project_MV/](https://dataviscourse2023.github.io/final_project_MV/)<br>
 
-**Tech Stack:**
+## Tech Stack
 1. Python
 2. D3.js
 3. JavaScript
 4. HTML
 5. CSS
 
-**Data Source:** 
+## Data Source
 1. Lyrics and Metadata from 1950 to 2019 - https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019?select=tcc_ceds_music.csv
 2. Spotify Official API - https://developer.spotify.com/documentation/web-api
 3. Spotify Tracks Dataset - https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
-## Highlights
+## Visualization Features
 
 **1. Home Page**
 <br> The default page it directs to when user first go to our project link. The home screen gives a brief overview of the project and what information does it provides to viewers. 
@@ -51,3 +52,7 @@ This project delves into the dynamic world of music, leveraging a comprehensive 
 3. Ranking of the selected word (higher rank indicates more repetition).
 
 ![Screenshot 2024-03-31 at 2 15 35 AM](https://github.com/avishek04/70YearsOfMusicVisual-D3/assets/48808040/f26b7a4e-6d86-4284-b47b-ad4fa0cf443a)
+
+Thanks for visiting!
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/avishekchoudhury/).
